@@ -1,0 +1,4 @@
+baseURL = 'https://decenter.raghav.cc/'
+languageCode = 'en-us'
+title = 'Decenter'
+theme = 'paper'
