@@ -1,4 +1,4 @@
 baseURL = 'https://decenter.netlify.app/'
 languageCode = 'en-us'
 title = 'Decenteralized X'
-theme = 'paper'
+theme = 'etch'
