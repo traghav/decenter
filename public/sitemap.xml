@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://decenter.raghav.cc/</loc>
+    <loc>https://decenter.netlify.app/</loc>
     <lastmod>2021-09-25T19:45:38+05:30</lastmod>
   </url><url>
-    <loc>https://decenter.raghav.cc/posts/hello-world/</loc>
+    <loc>https://decenter.netlify.app/posts/hello-world/</loc>
     <lastmod>2021-09-25T19:45:38+05:30</lastmod>
   </url><url>
-    <loc>https://decenter.raghav.cc/posts/</loc>
+    <loc>https://decenter.netlify.app/posts/</loc>
     <lastmod>2021-09-25T19:45:38+05:30</lastmod>
   </url><url>
-    <loc>https://decenter.raghav.cc/categories/</loc>
+    <loc>https://decenter.netlify.app/categories/</loc>
   </url><url>
-    <loc>https://decenter.raghav.cc/tags/</loc>
+    <loc>https://decenter.netlify.app/tags/</loc>
   </url>
 </urlset>

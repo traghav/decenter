@@ -8,4 +8,5 @@ draft: false
 
 Decentralization is breaking my brain.
 
-Here is an attempt to understand decentralization and its consequences. 
+Here is an attempt to understand decentralization and its consequences. In this blog, I will try to untangle what decentralization means, how is it different from centralized systems.
+
